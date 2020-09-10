@@ -1,0 +1,1 @@
+class Cheque(var valor: Double, var bancoEmissor: Int, dataPagamento: String)
